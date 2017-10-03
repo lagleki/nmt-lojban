@@ -6,3 +6,6 @@
 * evaluate results via a grammar parser String -> Boolean
 ** Lojban
 ** English
+
+
+* convert theano to tensorflow https://github.com/titu1994/Keras-Classification-Models/blob/master/weight_conversion_theano.py
